@@ -1,0 +1,43 @@
+body {
+    background-color: #434750; 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+}
+
+header {
+    background-color: #cc0000; 
+    padding: 20px; 
+    text-align: center; 
+}
+
+
+.table th,
+.table td {
+    color: #fff; 
+}
+
+.chart-container {
+    background-color: #fff; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px; 
+}
+
+.table th,
+.table td {
+    background-color: #fff; 
+    color: #000; 
+}
+
+.table th {
+    white-space: nowrap;
+}
+
+.mb-4{
+    margin-left: -50px;
+    margin-top: 20px;
+    font-size: 27px;
+    color: #fff;
+}
+    
